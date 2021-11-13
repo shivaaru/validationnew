@@ -41,12 +41,13 @@ section{
  }   
  .one p{
      text-align: center;
-     margin-left: -320px;
+     margin-left: -420px;
      margin-bottom: 12px;
      margin-top:-20px;
      color: rgb(243, 241, 241);
      padding: 2px;
      font-family: cursive;
+     font-size: 25px;
  }
 .two {
     background-image: url(pathanamthitta/joshua-sukoff-57G2uAtnsRw-unsplash.jpg);
@@ -84,7 +85,7 @@ section{
     background-blend-mode: darken;
 }
 .three h1{
-    font-size: 28px;
+    font-size: 35px;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -149,7 +150,7 @@ section{
     background-size: cover;
 }
 .card:hover{
-    transform: translateY(-10px);
+    transform: translateY(-15px);
 }
 .card1 h2{
     font-size: 27px;

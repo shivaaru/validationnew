@@ -47,7 +47,7 @@ section{
      color: rgb(211, 29, 74);
      padding: 2px;
      font-family: cursive;
-     font-size: 24px;
+     font-size: 25px;
  }
 .two {
     background-image: url(Wayanad/joshua-sukoff-57G2uAtnsRw-unsplash.jpg);
@@ -92,7 +92,7 @@ section{
 
 }
 .three .col p{
-    font-size: 25px;
+    font-size: 20px;
     font-family: cursive;
     color: rgb(238, 226, 57);
     text-align: center;
@@ -154,7 +154,7 @@ section{
     background-size: cover;
 }
 .card:hover{
-    transform: translateY(-10px);
+    transform: translateY(-15px);
 }
 .card1 h2{
     font-size: 27px;

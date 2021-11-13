@@ -1,0 +1,8 @@
+*{
+ margin:0px;
+ padding:0px;
+}
+body{
+    background: url(./newimg.jpg);
+    background-size: cover;
+}
